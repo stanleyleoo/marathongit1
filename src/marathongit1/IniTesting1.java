@@ -10,5 +10,7 @@ package marathongit1;
  * @author Stanley
  */
 public class IniTesting1 {
-    
+        public static void main(String[] args){
+    System.out.println("Ini Testing");
+        }
 }
